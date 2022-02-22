@@ -1,0 +1,5 @@
+C:\Users\agradillas\Documents\Projects\csharp\CarLoanCalculator\Bin\Build\CarLoanCalculator.exe
+C:\Users\agradillas\Documents\Projects\csharp\CarLoanCalculator\Bin\Build\CarLoanCalculator.dll
+C:\Users\agradillas\Documents\Projects\csharp\CarLoanCalculator\Bin\Build\CarLoanCalculator.deps.json
+C:\Users\agradillas\Documents\Projects\csharp\CarLoanCalculator\Bin\Build\CarLoanCalculator.runtimeconfig.json
+C:\Users\agradillas\Documents\Projects\csharp\CarLoanCalculator\Bin\Build\CarLoanCalculator.pdb
