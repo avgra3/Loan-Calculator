@@ -1,0 +1,5 @@
+C:\Users\Gradillas\Documents\CodingProjects\LoanCalculator\Csharp\bin\Debug\net6.0\publish\CarLoanCalculator.exe
+C:\Users\Gradillas\Documents\CodingProjects\LoanCalculator\Csharp\bin\Debug\net6.0\publish\CarLoanCalculator.dll
+C:\Users\Gradillas\Documents\CodingProjects\LoanCalculator\Csharp\bin\Debug\net6.0\publish\CarLoanCalculator.deps.json
+C:\Users\Gradillas\Documents\CodingProjects\LoanCalculator\Csharp\bin\Debug\net6.0\publish\CarLoanCalculator.runtimeconfig.json
+C:\Users\Gradillas\Documents\CodingProjects\LoanCalculator\Csharp\bin\Debug\net6.0\publish\CarLoanCalculator.pdb
