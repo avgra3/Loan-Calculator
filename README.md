@@ -22,9 +22,9 @@ In this program there are several inputs that are needed.
 
 To calculate each month the total amount owed on a loan, we use the following formula.
 
-$$ P_0 = principal - downPayment $$
+![Initial Principal](https://render.githubusercontent.com/render/math?math=P_0=principal-downPayment)
 
-$$ P_n = (P_{n-1}- montlyPayment) \times \left( \frac{APR}{12} + 1 \right)$$
+![Initial Principal](https://render.githubusercontent.com/render/math?math=P_n=(P_{n-1}-montlyPayment)\times\left(\frac{APR}{12}+1\right))
 
 The above assumes that APR is represented as a decimal, i.e., if $APR=8%$ then we would use $0.08$ as our APR.
 
