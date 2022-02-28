@@ -14,7 +14,7 @@ In this program there are several inputs that are needed.
 
 **Principal:** The amount that you originally agree to pay back to the lender.
 
-**APR:** Annual percentage rate. If you have an APR. This is the anual percentage rate of a loan. This is similar to an interest rate. If you want to calculate the interest rate per month, you would divide the APR by 12 (for eaach month in a year).
+**APR:** Annual percentage rate. This is the anual percentage rate of a loan. This is similar to an interest rate. If you want to calculate the interest rate per month, you would divide the APR by 12 (for each month in a year).
 
 **Down Payment:** The initial amount you pay before interest towards the principal amount. Essentially, a large down payment can greatly reduce the time it takes to pay off a loan.
 
